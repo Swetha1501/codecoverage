@@ -13,4 +13,4 @@ script:
 # deploy:
   provider: heroku
   api_key: 2223c131-14ea-46b4-8846-a37a19b05bdd
-  app: codecoverage    
+  app: codecoverage1
