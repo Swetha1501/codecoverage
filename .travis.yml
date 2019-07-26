@@ -3,4 +3,4 @@ sudo: false # faster builds
 before_install:
 - chmod +x mvnw
 after_success:
-- bash <(curl -s https://codecov.io/bash)mvn
+- bash <(curl -s https://codecov.io/bash)
